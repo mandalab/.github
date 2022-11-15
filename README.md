@@ -1,2 +1,2 @@
 # .github
-folder for Organization ReadMe
+folder for Organization MetaData
